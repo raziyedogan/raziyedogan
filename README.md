@@ -1,12 +1,11 @@
 ### Hi 👋, I'm Raziye Dogan
 
 - 🔭 I’m currently working as Artificial Intelligence Developer at [SimurgAI Lab](https://www.simurgai.com/) 
-      I participate in,
-
+      
+- 🔭 I participate in,
       Programming Languages I
       Programming Languages II 
       Introduction to Machine Learning
-
       lectures as an assistant student of Assoc. Prof. Dr. Caner Özcan
 
 - 🌱 I’m currently learning **Advanced Deep Learning Algorithms**
