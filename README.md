@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as Artificial Intelligence Developer at [SimurgAI Lab](https://www.simurgai.com/) 
       
-- 🔭 I participate in,
+- 🔭 I participate in,<br>
       Programming Languages I <br>
       Programming Languages II <br>
       Introduction to Machine Learning <br>
