@@ -3,9 +3,9 @@
 - 🔭 I’m currently working as Artificial Intelligence Developer at [SimurgAI Lab](https://www.simurgai.com/) 
       
 - 🔭 I participate in,
-      Programming Languages I "\n"
-      Programming Languages II "\n"
-      Introduction to Machine Learning "\n"
+      Programming Languages I <br>
+      Programming Languages II <br>
+      Introduction to Machine Learning <br>
       lectures as an assistant student of Assoc. Prof. Dr. Caner Özcan
 
 - 🌱 I’m currently learning **Advanced Deep Learning Algorithms**
