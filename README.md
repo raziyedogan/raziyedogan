@@ -24,5 +24,5 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raziyedogan&label=Profile%20views&color=0e75b6&style=flat" alt="raziyedogan" /> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/raziye-dogan-1391bb242/" target="blank"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/76/92/23/7692234b-d2a1-d319-effc-360ef06109c2/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/1200x600wa.png" alt="raziyedogan" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/raziye-dogan-1391bb242/" target="blank"></a> </p>
 
