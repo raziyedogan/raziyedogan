@@ -1,4 +1,3 @@
-### Hi 👋, I'm Raziye Dogan
 <h1 align="center">Hi 👋, I'm Raziye Dogan</h1>
 <h3 align="center">A ambitious Computer Engineering student who is interested in Machine Learning & Deep Learning & Software Development</h3>
 <p align="center">
