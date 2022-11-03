@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raziye Dogan</h1>
-<h3 align="center">An ambitious Computer Engineering student who is interested in Machine Learning & Deep Learning & Software Development</h3>
+<h3 align="center">An ambitious Computer Engineering student who is interested in Data Science, Machine Learning & Deep Learning & Software Development</h3>
 <p align="center">
   <img src="https://miro.medium.com/max/1400/1*beEP_5lN03hjXa-7qu6bBw.gif" width="800" height="400">
 </p>
