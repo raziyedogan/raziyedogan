@@ -22,5 +22,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raziyedogan&show_icons=true&locale=en&layout=compact" alt="raziyedogan" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raziyedogan&label=Profile%20views&color=0e75b6&style=flat" alt="raziyedogan" /> </p>
+
 <p align="left"> <a href="https://www.linkedin.com/in/raziye-dogan-1391bb242/" target="blank"></a> </p>
 
