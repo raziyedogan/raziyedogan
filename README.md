@@ -13,7 +13,7 @@
       lectures as an assistant student of Assoc. Prof. Dr. Caner Özcan
 
 - 🌱 I’m currently learning **Advanced C++ & PLM & Teamcenter & NX**
-- 💬 Ask me about **C, Python, Algorithm Analysis, Data Science, Machine Learning, Deep Learning**
+- 💬 Ask me about **C, C#, Python, Algorithm Analysis, Data Science, Machine Learning, Deep Learning**
 - 📫 How to reach me: **raziyed49@gmail.com**
 - 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1U2pHQiyCB_0EZkGkhk2nOJ8cKLBE23oa/view?usp=sharing)
 
