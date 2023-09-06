@@ -3,8 +3,6 @@
 <p align="center">
   <img src="https://miro.medium.com/max/1400/1*beEP_5lN03hjXa-7qu6bBw.gif" width="800" height="400">
 </p>
-
-- 🔭 I’m currently working as Software Engineer at [Creas Technology](https://www.creas-technology.com/) 
       
 - 🔭 I participate in,<br>
       Programming Languages I <br>
