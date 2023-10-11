@@ -4,7 +4,7 @@
   <img src="https://miro.medium.com/max/1400/1*beEP_5lN03hjXa-7qu6bBw.gif" width="800" height="400">
 </p>
   
-- 🔭 I’m currently working as Software Test Engineering at Ericsson
+- 🔭 I’m currently working as Software Test Engineer at Ericsson
 - 💬 Ask me about C, C#, Python, Algorithm Analysis, Data Science, Machine Learning
 - 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1aCG0hsi1DrrbA_nG3tboPOByTwyfXtz_/view?usp=sharing)
 
